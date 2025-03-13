@@ -1,6 +1,6 @@
 ## Oi oi, meu nome é Luccas Bastos! 👋
 
-- 🌱 Estudando Swift e C/C++ com enfoque em aplicações de projetos embarcados.
+- 🌱 Estudando Swift com enfoque em aplicativos e softwares iOS e C/C++ para aplicações de projetos embarcados.
 - 📫 Contacte-me no email: luccaspbastos@gmail.com
 
 <div>
