@@ -1,10 +1,10 @@
 ## Oi oi, meu nome é Luccas Bastos! 👋
 
-- 🌱 Estudando Swift com enfoque em aplicativos e softwares iOS e C/C++ para aplicações de projetos embarcados.
+- 🌱 Atualmente estudo Swift com enfoque em aplicativos e softwares iOS e C/C++ para aplicações de projetos embarcados.
 - 📫 Contacte-me no email: luccaspbastos@gmail.com
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasBastos&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasBastos&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ### Linguagens de programação que já trabalhei...
