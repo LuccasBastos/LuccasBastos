@@ -4,7 +4,7 @@
 - 📫 Contacte-me no email: luccaspbastos@gmail.com
 
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasBastos&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasBastos&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ### Linguagens de programação que já trabalhei...
